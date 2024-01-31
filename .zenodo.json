@@ -1,0 +1,90 @@
+{  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "University of Kentucky"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Flight",
+          "given_name": "Robert",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8141-7788",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Flight, Robert",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "University of Kentucky"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Moseley",
+          "given_name": "Hunter",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3995-5368",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Moseley, Hunter",
+          "type": "personal"
+        }
+      }
+    ],
+    
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.6311002",
+        "relation_type": {
+          "id": "issupplementedby"
+        },
+        "resource_type": {
+          "id": "dataset"
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.10570255",
+        "relation_type": {
+          "id": "issupplementedby"
+        },
+        "resource_type": {
+          "id": "dataset"
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "Information-Content-Informed Kendall-Tau: Utilizing Missing Values"
+  }
+}
